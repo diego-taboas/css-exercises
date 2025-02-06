@@ -1,0 +1,19 @@
+
+.odd-class {
+    background-color:#ff000080;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.odd-third {
+    font-size: 24px;
+}
+
+#blueid {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#greenid {
+    color: rgba(rgb(46, 182, 46), 3);
+    
+}
