@@ -1,10 +1,10 @@
 
-.odd-class {
+.odd {
     background-color:#ff000080;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.odd-third {
+.adjust-font-size {
     font-size: 24px;
 }
 
